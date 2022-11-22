@@ -4,5 +4,4 @@ mathjax: true
 layout: post
 categories: media
 ---
-
-{% include embed.html url="{{ site.url }}/assets/awili.mp4" %}
+<iframe width="560" height="315" src="../assets/awili.mp4" frameborder="0" allowfullscreen></iframe>
