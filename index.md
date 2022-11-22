@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 categories: media
 title: "About me"
 ---
