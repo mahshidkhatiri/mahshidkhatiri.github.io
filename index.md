@@ -2,7 +2,6 @@
 layout: page
 title: "About me"
 ---
-# About me
 <img align="left" width="200" height="200" src="/assets/bio.jpg"/>
 
 
