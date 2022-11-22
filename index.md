@@ -3,7 +3,7 @@ layout: default
 title: "About me"
 ---
 
-<img align="left" width="200" height="200" src="{{ site.url }}/assets/bio.jpg"/>
+<img align="left" width="200" height="200" src="/assets/bio.jpg"/>
 
 About me
 ======
