@@ -3,5 +3,4 @@ title: "Résumé"
 permalink: /resume/
 header:
 ---
-[See it here :)](http://mahshidkhatiri.github.io
-/assets/CV.pdf)
+[get the PDF]({{ site.url }}/assets/CV.pdf)
