@@ -17,7 +17,7 @@ My name is Mahshid Khatiri Olyaee. I have completed my B.Sc. in Alzahra Universi
 
 ## Previous Projects
 
-[Gtthub](https://github.com/mahshidkhatiri)
+[Github](https://github.com/mahshidkhatiri)
 
 
 
