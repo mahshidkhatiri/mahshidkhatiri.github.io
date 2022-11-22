@@ -1,6 +1,5 @@
 ---
-layout: default
-categories: media
+layout: page
 title: "About me"
 ---
 # About me
