@@ -22,6 +22,9 @@ Artificial Intelligence, Data Mining, Machine learning
 
 [Github](https://github.com/mahshidkhatiri)
 
+## videos of projects
+---
 
+[speech recognition](/_posts/2021-07-18-speech-recognition.md)
 
 
